@@ -1,0 +1,3 @@
+BENSOUND-epic -- menu music
+SoundBible -- eating sound effect
+SoundBible -- death sound effect
